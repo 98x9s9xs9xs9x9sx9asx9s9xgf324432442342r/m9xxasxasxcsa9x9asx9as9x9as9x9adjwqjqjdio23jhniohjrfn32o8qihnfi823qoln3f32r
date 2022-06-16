@@ -374,7 +374,7 @@ do
 						Position = UDim2.new(0, 30, 0, 1),
 						Size = UDim2.new(0, 100, 1, 0),
 						Font = Enum.Font.Gotham,
-						Text = "SmoxHub | <SmoxHub | >" .. Title .. "SmoxHub | ",
+						Text = "SmoxHub |" .. Titlee .. "<Mm2/b> MM2 ",
 						RichText = true,
 						TextColor3 = theme.TextColor,
 						TextSize = 14,
